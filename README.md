@@ -1,4 +1,4 @@
-# MATLAB_program_Solving_ODEs_harmonic_oscillators
+# Ex_2_20_RAO_Solving_ODEs_harmonic_oscillators
 A general-purpose MATLAB program to find the free vibration response of a viscously damped system.
 
 Steps that must be taken to perform the task:
